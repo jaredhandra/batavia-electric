@@ -1,0 +1,119 @@
+/*Author: Jared Handra
+* URL: http://jaredhandra.com
+* Project Name: Batavia Electric
+* Version: 1.0
+*/
+body {
+	background-color: #f2f2f2;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+p {
+	padding-top: 20px;
+	padding: 40px 0;
+	font-size: 16px;
+	text-align: center;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.nav {
+	background: #34495e;
+}
+.nav li {
+	display: inline;
+}
+.nav a {
+    color: #fff;
+    font-size: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style: none;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+	color: #7b7b7b;
+	text-decoration: none;
+	outline: 0;
+}
+
+.nav .logo li {
+	font-weight: bold;
+	color: #fff;
+	font-weight: 300;
+	font-size: 36px;
+	line-height: 27px;
+	text-shadow: none;
+	margin-left: 0px !important;
+	padding: 15px;
+}
+.links li {
+	color: #fff;
+	padding: 15px;
+	line-height: 27px;
+	padding: 15px;
+	font-size: 20px;
+}
+.jumbotron {
+	height: 500px;
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+.jumbotron h1 {
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+}
+.jumbotron p {
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+}
+.middle-section {
+	background-color: ;
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+.middle-section h2 {
+    font-size: 22px;
+    text-align: center;
+}
+.middle-section h3 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+.companies {
+	background-color: #E67E22;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.companies h2 {
+	color: #fff;
+	text-align: center;
+	font-size: 22px;
+}
+.bottom {
+	text-align: center;
+	padding-top: 70px;
+}
