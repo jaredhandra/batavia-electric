@@ -5,7 +5,7 @@
 */
 body {
 	background-color: #f2f2f2;
-	font-family: "Lato";
+	font-family: "Raleway";
 	font-weight: 300;
 	font-size: 16px;
 	color: #555;
@@ -113,18 +113,38 @@ a:focus {
 	text-align: center;
 	font-size: 22px;
 }
-.bottom {
+.contact {
 	text-align: center;
 	padding-top: 70px;
 	padding-bottom: 70px;
 }
-.bottom h3 {
-	font-weight: 600;
+.contact h2 {
+	font-size: 22px;
 }
-.contact {
+.contact h3 {
+	font-weight: 
+}
+.contact #map {
+	padding-top: 0;
+}
+.hours {
+	font-weight: bold;
+}
+#hoursOpen {
+	padding-bottom: 22px;
+}
+#emailUs {
+	vertical-align: bottom;
+}
+.btn-custom {
+	background-color: #E67E22;
+	border-color: #E67E22;
+	color: #fff;
+}
+.bottom {
 	text-align: center;
 	padding-bottom: 70px;
 }
-.contact h2 {
-	font-size: 22px;
+.bottom h3 {
+	font-weight: 600;
 }
