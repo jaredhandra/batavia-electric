@@ -5,7 +5,7 @@
 */
 body {
 	background-color: #f2f2f2;
-	font-family: "Raleway";
+	font-family: "Lato";
 	font-weight: 300;
 	font-size: 16px;
 	color: #555;
@@ -91,7 +91,7 @@ a:focus {
 }
 .middle-section {
 	background-color: ;
-	padding-top: 70px;
+	padding-top: 30px;
 	padding-bottom: 80px;
 }
 .middle-section h2 {
@@ -105,7 +105,7 @@ a:focus {
 }
 .companies {
 	background-color: #E67E22;
-	padding-top: 70px;
+	padding-top: 30px;
 	padding-bottom: 70px;
 }
 .companies h2 {
@@ -115,7 +115,7 @@ a:focus {
 }
 .contact {
 	text-align: center;
-	padding-top: 70px;
+	padding-top: 30px;
 	padding-bottom: 70px;
 }
 .contact h2 {
@@ -125,7 +125,7 @@ a:focus {
 	font-weight: 
 }
 .contact #map {
-	padding-top: 0;
+	padding-top: 10px;
 }
 .hours {
 	font-weight: bold;
