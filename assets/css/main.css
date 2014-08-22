@@ -113,6 +113,15 @@ a:focus {
 	text-align: center;
 	font-size: 22px;
 }
+.eaton {
+	padding-top: 50px;
+}
+.pass {
+	padding-top: 30px;
+}
+.sylvania {
+	padding-top: 65px;
+}
 .contact {
 	text-align: center;
 	padding-top: 30px;
