@@ -140,6 +140,10 @@ a:focus {
 	background-color: #E67E22;
 	border-color: #E67E22;
 	color: #fff;
+	margin: 5px;
+}
+btn-extend {
+	width: 34px;
 }
 .bottom {
 	text-align: center;
@@ -147,4 +151,25 @@ a:focus {
 }
 .bottom h3 {
 	font-weight: 600;
+}
+.footer {
+	background-color: #34495e;
+	color: #fff;
+}
+.footer h3 {
+	color: #fff;
+	font-weight: 400;
+}
+.footer a {
+	color: #fff;
+}
+a:hover,
+a:focus {
+	color: #E67E22;
+	text-decoration: none;
+	outline: 0;
+}
+.footer-bottom {
+	padding: 30px;
+	font-weight: 400;
 }
