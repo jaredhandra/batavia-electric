@@ -127,6 +127,10 @@ a:focus {
 .contact #map {
 	padding-top: 10px;
 }
+.hours-heading {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 .hours {
 	font-weight: bold;
 }
