@@ -148,6 +148,7 @@ btn-extend {
 .bottom {
 	text-align: center;
 	padding-bottom: 70px;
+
 }
 .bottom h3 {
 	font-weight: 600;
@@ -155,6 +156,7 @@ btn-extend {
 .footer {
 	background-color: #34495e;
 	color: #fff;
+	padding-bottom: 30px;
 }
 .footer h3 {
 	color: #fff;
@@ -169,7 +171,7 @@ a:focus {
 	text-decoration: none;
 	outline: 0;
 }
-.footer-bottom {
-	padding: 30px;
-	font-weight: 400;
+.created {
+	margin-top: 80px;
+	padding-left: 80px;
 }
