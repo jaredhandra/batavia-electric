@@ -148,30 +148,19 @@ btn-extend {
 .bottom {
 	text-align: center;
 	padding-bottom: 70px;
-
 }
 .bottom h3 {
 	font-weight: 600;
 }
 .footer {
-	background-color: #34495e;
-	color: #fff;
 	padding-bottom: 30px;
 }
-.footer h3 {
-	color: #fff;
-	font-weight: 400;
-}
 .footer a {
-	color: #fff;
+	color: #555;
 }
 a:hover,
 a:focus {
 	color: #E67E22;
 	text-decoration: none;
 	outline: 0;
-}
-.created {
-	margin-top: 80px;
-	padding-left: 80px;
 }
