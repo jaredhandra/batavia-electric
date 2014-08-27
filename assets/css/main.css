@@ -89,10 +89,15 @@ a:focus {
     font-size: 20px;
     text-align: left;
 }
+.info {
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-left: 60px;
+}
 .middle-section {
 	background-color: ;
 	padding-top: 30px;
-	padding-bottom: 80px;
+	padding-bottom: 40px;
 }
 .middle-section h2 {
     font-size: 22px;
@@ -102,6 +107,17 @@ a:focus {
     font-size: 32px;
     font-weight: 600;
     text-align: center;
+}
+.about {
+	text-align: justify;
+}
+.hours {
+	text-align: center;
+	padding-top: 20px;
+}
+.open {
+	padding-left: 5px;
+	padding-right: 20px;
 }
 .companies {
 	background-color: #E67E22;
@@ -127,18 +143,8 @@ a:focus {
 .contact #map {
 	padding-top: 10px;
 }
-.hours-heading {
-	padding-top: 30px;
-	padding-bottom: 30px;
-}
-.hours {
-	font-weight: bold;
-}
-#hoursOpen {
-	padding-bottom: 22px;
-}
-#emailUs {
-	vertical-align: bottom;
+.open {
+	font-weight: 600;
 }
 .btn-custom {
 	background-color: #E67E22;
